@@ -1,0 +1,7 @@
+
+enum NetworkStatus{
+  LOADING,
+  COMPLETED,
+  FAILURE,
+  UNAUTHORIZED
+}
